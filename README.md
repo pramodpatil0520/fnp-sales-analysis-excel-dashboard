@@ -152,7 +152,7 @@ fnp-sales-analysis-excel-dashboard/
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshots/dashboard_main.png)
+![Dashboard_Screenshots]/Screenshot 2025-09-20 020858.png.
 
 > More screenshots available in the `Dashboard_Screenshots/` folder.
 > *(Update the filename above to match the actual screenshot file name in your repo)*
